@@ -36,3 +36,6 @@ after: source ~/anaconda3/etc/profile.d/conda.sh
 239dimension error
 1. add glove.840B.300.zip to ".vector_cashe(hidden directory)" https://nlp.stanford.edu/projects/glove/
 2. And, open zip file
+
+## 使用
+https://github.com/v-iashin/BMT
